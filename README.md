@@ -68,3 +68,41 @@ In this programme, the user wants to make a pattern by entering the number of ro
 ![star pattern](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/e5e872dc-a1b7-4679-a0e0-04dcedd462cc)
 
 ' ' '
+
+' ' '
+
+## LAB3(a)
+29/08/2023
+
+### Title
+Write a program to demonstrate pointers. Declare a pointer ptr to interger and equate it to address of integer i. Print value of i, value of &i, value of ptr and value of *ptr.
+
+### Theory
+A pointer is a variable that stores the memory address of another variable. It "points" to the location in memory where data is stored. int *ptr; declares a pointer ptr that can point to an integer.
+
+### Explanation
+This program explain how pointers can be used to access memory addresses and the values stored at those addresses. 
+
+### Output Screenshot
+![pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/4013818d-fc22-43d5-920a-949715921fd5)
+
+' ' '
+
+' ' '
+
+## LAB3(b)
+29/08/2023
+
+### Title
+Write a program in C to demonstrate function call by value and call by reference by writing a swap function to swap two integers.
+
+### Theory
+In C programming there are two ways to pass an arguments to functions : call by value and call by reference, These two methods determine how the function receives and operates on its parameters. In call by value, copies of the actual values are made and passed to the function. And In call by reference, arguments pass the memory address of the actual variables to the function.
+
+### Explanation
+In this program swap1, which is used to swap the values of two integers using pointers, call by reference. 
+
+### Output Screenshot
+![swapping](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/487ee2a8-c4d6-4f5e-a7af-2a37fc31ff1b)
+
+' ' '
