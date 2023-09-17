@@ -56,4 +56,15 @@ By using for loop, table of multiplication for any number will be execute.
 23/08/2023
 
 ### Title
-Write a program to display different start patterns on screen.
+Write a program to display different star patterns on screen.
+
+### Aim 
+To print star pattern.
+
+### Explanation
+In this programme, the user wants to make a pattern by entering the number of rows and columns. The programme creates a pattern of stars with two halves: one with ascending rows and the other with descending rows, separated by a newline character. The number of stars in each row is determined by the value of "i" within the respective loops by using nested for loops.
+
+### Output Screenshot
+![star pattern](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/e5e872dc-a1b7-4679-a0e0-04dcedd462cc)
+
+' ' '
