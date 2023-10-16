@@ -142,3 +142,22 @@ Three character variables are declared - str, arr, and reverse_arr. str is an ar
 ![array reverse of array](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/68c316ea-d853-4347-b1ac-097e1511af81)
 
 ' ' '
+
+' ' ' 
+## LAB6(c)
+14/09/2023
+
+### Title
+Check if the word is a pallindrom. (A word is a palidrom if it reads same either traight or reverse. e.g. "madam')
+
+### Theory
+A palindrome is a word, phrase, number, or other sequence of characters that reads the same forwards and backwards. It is a symmetric sequence that reads the same when reversed. A program to check if a word is a palindrome is a fundamental text processing task that involves character comparison, input validation, and reporting the result. It is a common problem used in programming challenges, data validation, and linguistic analysis. 
+
+### Explanation
+Given C++ program checks if a given word is a palindrome. The program checks if arr and reverse_arr are equal. It's determine if the word is a palindrome by comparing the first and last characters. 
+
+### Output Screenshot
+![word is palindrome](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/c7702cfb-71b9-4202-ab73-a76e6cc8bc3b)
+![word is not palindrome](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/d59bfce4-e9fd-484c-b220-25fb492888b5)
+
+' ' '
