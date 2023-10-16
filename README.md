@@ -106,3 +106,21 @@ In this program swap1, which is used to swap the values of two integers using po
 ![swapping](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/487ee2a8-c4d6-4f5e-a7af-2a37fc31ff1b)
 
 ' ' '
+
+' ' '
+## LAB6
+14/09/2023
+
+### Title
+ Write a program to declare a char array of 20 characters. Read a word (using scanf or cin >> ) into the char array.
+
+### Theory
+In programming, a character array is a data structure used to store sequences of characters, such as strings, in a contiguous block of memory. It is a fundamental part of many programming languages and plays a crucial role in text processing, manipulation, and storage. To declare a character array, you specify its data type, the array name, and its size. 
+
+### Explanation
+The given C++ program demonstrates how to declare a character array, read user input into the array, and then display the input back to the user. A character array named word is declared. It has a size of 20 characters, meaning it can store up to 19 characters plus a null-terminator (a special character, '\0', used to mark the end of strings).
+
+### Output Screenshot
+![declare a char array](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/7d6055fc-965a-4641-a9d3-18455cbf56fb)
+
+' ' '
