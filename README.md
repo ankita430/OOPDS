@@ -161,3 +161,21 @@ Given C++ program checks if a given word is a palindrome. The program checks if 
 ![word is not palindrome](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/d59bfce4-e9fd-484c-b220-25fb492888b5)
 
 ' ' '
+
+' ' '
+## LAB6(d)
+14/09/2023
+
+### Title 
+Using pointer please calculate length of the word.
+
+### Theory
+Pointers are variables that store memory addresses, which allows for direct access to data stored in memory. In C and C++, pointers are widely used for efficient memory management and various operations on data structures. Using pointers to calculate the length of a word or string involves traversing the characters of the string, incrementing a pointer, and counting characters until the null character is encountered. Understanding pointers, character arrays, and string representation is crucial for efficiently working with strings in C and C++ and various other programming languages.
+
+### Explanation
+The given C++ program calculates and displays the length of a string, which is "symbiosis" in this case. The strlen function from the C Standard Library (provided by <cstring>) is used to calculate the length of the string stored in the str variable. The result of strlen is assigned to the integer variable len, which stores the length of the string. The result is then displayed using cout. This program is an efficient way to find the length of a string and can be adapted for other strings as needed.
+
+### Output Screenshot
+![length of string using pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/8cd2f29d-cc8e-416a-aefa-2d173d7109fd)
+
+' ' '
