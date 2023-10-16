@@ -108,11 +108,11 @@ In this program swap1, which is used to swap the values of two integers using po
 ' ' '
 
 ' ' '
-## LAB6
+## LAB6(a)
 14/09/2023
 
 ### Title
- Write a program to declare a char array of 20 characters. Read a word (using scanf or cin >> ) into the char array.
+Write a program to declare a char array of 20 characters. Read a word (using scanf or cin >> ) into the char array.
 
 ### Theory
 In programming, a character array is a data structure used to store sequences of characters, such as strings, in a contiguous block of memory. It is a fundamental part of many programming languages and plays a crucial role in text processing, manipulation, and storage. To declare a character array, you specify its data type, the array name, and its size. 
@@ -122,5 +122,23 @@ The given C++ program demonstrates how to declare a character array, read user i
 
 ### Output Screenshot
 ![declare a char array](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/7d6055fc-965a-4641-a9d3-18455cbf56fb)
+
+' ' '
+
+' ' '
+## LAB6(b)
+14/09/2023
+
+### Title 
+Display the array and reverse of the array on screen.
+
+### Theory
+In programming, an array is a data structure that holds a collection of elements of the same data type, arranged sequentially in memory. The elements in an array are typically accessed by an index, with the first element having an index of 0, the second having an index of 1, and so on. An array may contain various types of data, including integers, characters, floating-point numbers, or even complex objects. To display the contents of an array on the screen, we typically use some form of output operation provided by the programming language, such as cout in C++. A loop, often a for or while loop, is used to iterate through the elements of the array, and each element is printed to the screen. The loop continues until all elements have been displayed. Reversing an array means changing the order of its elements such that the first element becomes the last, the second element becomes the second-to-last, and so on. A common approach to reversing an array is to use two pointers (one starting from the beginning, and the other from the end) and swap their elements iteratively. Alternatively, we can use a loop to create a new array that contains the elements of the original array in reverse order. For numeric arrays, we can also perform in-place reversal, which means that you directly modify the original array.
+
+### Explanation
+Three character variables are declared - str, arr, and reverse_arr. str is an array of characters to store the word, while arr and reverse_arr are individual characters. The program prompts the user to enter a word and reads it into the str array. It prints Array is as a part of the output. This loop iterates through the characters of the str array and prints each character. It also assigns each character to the arr variable. The program prints a newline character and Reverse of array is to move to the next line and indicate the start of the reversed output.
+
+### Output Screenshot
+![array reverse of array](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/68c316ea-d853-4347-b1ac-097e1511af81)
 
 ' ' '
