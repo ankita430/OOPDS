@@ -418,10 +418,16 @@ Linear and binary search algorithms are two methods for searching for an element
 Binary Search Tree 1
 
 ### Theory
+Binary search is a searching algorithm that operates on sorted collections of data by dividing the search space in half until the target element is found or the space is empty. It is most effective when applied to a sorted collection, and its principles include sorting, divide and conquer, midpoint calculation, target comparison, and reducing search space. Binary search is highly efficient, especially for large sorted collections. The steps of binary search include initializing the collection, calculating the midpoint, comparing the target with the midpoint, and adjusting search space. However, it has disadvantages such as the need for a sorted collection and memory overhead when using linked lists. Despite these drawbacks, binary search remains a fundamental algorithm used in various applications for quick and efficient search.
 
 ### Explanation
+The Binary Search Tree algorithm is a user-friendly tool that allows users to perform various operations on the tree interactively. It consists of three main algorithms: Node Insertion, Tree Traversal, and Node Deletion. Node Insertion adds a new number to a list of numbers, while Tree Traversal helps go through the list in a specific order. Inorder Traversal visits all nodes in ascending order, while Preorder Traversal visits the current node before its children. Postorder Traversal visits the current node after its children. Node Deletion removes a number from the tree, and the user can choose to insert, traverse, delete, or exit the program. The menu-driven interface allows users to choose what to do with the list, such as adding a number, looking at the list in different ways, removing a number, or leaving. The user can choose to add a number, look at the list in order, start from the top, or start from the bottom, or remove a number from the list. If done, the user can exit the program or the list. Overall, the Binary Search Tree algorithm is a powerful tool for data analysis and visualization.
 
 ### Output Screenshot
+![binarysearch1](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/eb45d297-d8e3-491f-aac9-38249f9642fb)
+![binarysearch2](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/aa0b23e5-8c35-464b-b65c-301da1b0eb42)
+![binarysearch3](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/13b79945-cd72-43ee-a5bf-85b75011e6d5)
+![binarysearch4](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/81ee5f23-b9c0-4125-aa87-4cdb4ae517f3)
 
 ' ' ' 
 ## LAB17
