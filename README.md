@@ -437,10 +437,13 @@ The Binary Search Tree algorithm is a user-friendly tool that allows users to pe
 Sorting Algorithm 1
 
 ### Theory
+Sorting is a fundamental operation in computer science that involves arranging a collection of elements in a specific order. There are various sorting algorithms, each with its own characteristics and use cases. Common sorting algorithms include Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, and Radix Sort. Bubble Sort is simple and easy to understand but inefficient for large datasets. Selection Sort divides the array into sorted and unsorted regions, swapping the minimum element in the unsorted region with the first unsorted element. Insertion Sort builds the sorted array one element at a time, efficient for small datasets or partially sorted datasets. 
 
 ### Explanation
+Selection sort is an algorithm that starts with the first element of an array and moves on to find the minimum element in the unsorted part. It then swaps the minimum element with the first element of the unsorted part. The remaining unsorted part is sorted when all elements are considered. Injection sort starts with the second element of the array and inserts it into its correct position. If needed, larger sorted elements are shifted to make space for the inserted element. Bubble sort starts with the first element and compares it with the next element. If the current element is greater than the next, swaps them. The largest unsorted element is at the end of the array. The process continues until no more swaps are needed. Selection sort is similar to a deck of cards being sorted, while insertion sort is like a row of bubbles in a glass of soda.
 
 ### Output Screenshot
+![sorting](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/bf6437ce-e95c-4b84-a110-9c69a05b2863)
 
 ' ' '
 ## LAB18
@@ -450,10 +453,13 @@ Sorting Algorithm 1
 Graph Data Structure
 
 ### Theory
+A graph is a data structure consisting of nodes (vertices) and edges connecting pairs of nodes. It is fundamental in computer science and various applications. Key concepts related to graph data structures include vertices and edges, which represent entities or points in the graph. Graph types include directed, undirected, weighted, cyclic, acyclic, connected, disconnected, and disconnected graphs. Adjacency is represented by adjacency matrix and list. Traversal is explored using depth-first search (DFS) and breadth-first search (BFS). Graphs are used in various applications, such as networks, pathfinding, circuit design, recommendation systems, and code representation. Understanding different types of graphs, their representations, and algorithms is crucial for designing efficient solutions to problems involving relationships and connections between entities.
 
 ### Explanation
+The algorithm creates an adjacency matrix for each vertex, creating an empty list representing the neighbors of the current vertex. If an entry is non-zero, it adds the corresponding column index to the list of neighbors for that vertex. Repeat previous steps for each row in the matrix. The resulting lists represent the adjacency list for each vertex. A graph is a map that shows connections between different locations, using an adjacency matrix to represent which locations are directly connected. The code has functions like addEdge, BFS, DFS, convertToAdjacencyList, and convertToAdjacencyMatrix. The main function creates a graph with six locations, adds connections, shows BFS and DFS traversal, converts between adjacency matrix and list, and prints information to the console.
 
 ### Output Screenshot
+![graphdatastructure](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/10916505-1aa3-4a84-acda-6820a139d8b0)
 
 ' ' '
 
