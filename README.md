@@ -179,3 +179,63 @@ The given C++ program calculates and displays the length of a string, which is "
 ![length of string using pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/8cd2f29d-cc8e-416a-aefa-2d173d7109fd)
 
 ' ' '
+## LAB6(d)
+14/09/2023
+
+### Title 
+Using pointer please calculate length of the word.
+
+### Theory
+Pointers are variables that store memory addresses, which allows for direct access to data stored in memory. In C and C++, pointers are widely used for efficient memory management and various operations on data structures. Using pointers to calculate the length of a word or string involves traversing the characters of the string, incrementing a pointer, and counting characters until the null character is encountered. Understanding pointers, character arrays, and string representation is crucial for efficiently working with strings in C and C++ and various other programming languages.
+
+### Explanation
+The given C++ program calculates and displays the length of a string, which is "symbiosis" in this case. The strlen function from the C Standard Library (provided by <cstring>) is used to calculate the length of the string stored in the str variable. The result of strlen is assigned to the integer variable len, which stores the length of the string. The result is then displayed using cout. This program is an efficient way to find the length of a string and can be adapted for other strings as needed.
+
+### Output Screenshot
+![length of string using pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/8cd2f29d-cc8e-416a-aefa-2d173d7109fd)
+
+' ' '
+## LAB6(d)
+14/09/2023
+
+### Title 
+Using pointer please calculate length of the word.
+
+### Theory
+Pointers are variables that store memory addresses, which allows for direct access to data stored in memory. In C and C++, pointers are widely used for efficient memory management and various operations on data structures. Using pointers to calculate the length of a word or string involves traversing the characters of the string, incrementing a pointer, and counting characters until the null character is encountered. Understanding pointers, character arrays, and string representation is crucial for efficiently working with strings in C and C++ and various other programming languages.
+
+### Explanation
+The given C++ program calculates and displays the length of a string, which is "symbiosis" in this case. The strlen function from the C Standard Library (provided by <cstring>) is used to calculate the length of the string stored in the str variable. The result of strlen is assigned to the integer variable len, which stores the length of the string. The result is then displayed using cout. This program is an efficient way to find the length of a string and can be adapted for other strings as needed.
+
+### Output Screenshot
+![length of string using pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/8cd2f29d-cc8e-416a-aefa-2d173d7109fd)
+
+' ' '
+## LAB7
+21/09/2023
+
+### Title 
+Reading and writing data from an xcel file using r(read) mode and malloc dynamic memory allocation.
+
+### Theory
+Programming involves the creation, modification, and upkeep of files, which is why file handling is so important. On solid-state drives and hard drives, among other storage devices, it is used to permanently store data. File handling is covered by dedicated libraries and functions in programming languages such as C, C++, and Python. File positioning, error handling, opening and shutting files, reading from and writing to files, file modes, and binary file handling are some of the key ideas and actions associated with file handling. To operate on files, one can use functions like fscanf, fprintf, and fwrite. When doing file operations, it's crucial to look for mistakes and refer to the language's or library's documentation for comprehensive details on file handling features and recommended procedures.
+
+### Explanation
+Using an input CSV file, this code shows how to read it and produce an output file. After defining a structure to hold data, it reads the input file, parses the CSV, allocates memory for a new structure, increments the counter, stores the structure pointer in a dynamic array, and closes the input file. The dynamic array is then iterated over, the data for each structure is sent to the output file, and the memory that was allotted is released.
+
+### Output Screenshot
+![output](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/2319b36d-dd67-4c18-b106-58f5a9079b90)
+
+' ' '
+## LAB8
+28/09/2023
+
+### Title 
+
+
+### Theory
+
+
+### Explanation
+
+### Output Screenshot
