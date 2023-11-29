@@ -231,11 +231,28 @@ Using an input CSV file, this code shows how to read it and produce an output fi
 28/09/2023
 
 ### Title 
-
+Create a class with a specific date and access its functions using the class object (today).
 
 ### Theory
-
+In C++, public and private access specifiers control the visibility of class members. Public members are accessible from outside the class, providing an interface to the outside world, while private members are hidden and only accessible by member functions of the same class. They are used to encapsulate implementation details and enforce data encapsulation. An example implementation is creating a Date class with private data members for day, month, and year.
 
 ### Explanation
+Build a date class, initialise month_days, int arr, and ptr to strings, accept user input, display the date in slashed form, verify the leap year, tally the number of days, display the date without slashed form, and display the weekday.
+
+### Output Screenshot
+![classimplementation](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/463d4d1c-0359-4b53-baa0-fd4f8d75bd6e)
+
+' ' '
+## LAB9
+28/09/2023
+
+### Title 
+Create a class with a specific date and access its functions using the class object (today).
+
+### Theory
+In C++, public and private access specifiers control the visibility of class members. Public members are accessible from outside the class, providing an interface to the outside world, while private members are hidden and only accessible by member functions of the same class. They are used to encapsulate implementation details and enforce data encapsulation. An example implementation is creating a Date class with private data members for day, month, and year.
+
+### Explanation
+Build a date class, initialise month_days, int arr, and ptr to strings, accept user input, display the date in slashed form, verify the leap year, tally the number of days, display the date without slashed form, and display the weekday.
 
 ### Output Screenshot
