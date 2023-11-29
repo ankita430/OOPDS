@@ -384,10 +384,14 @@ The stack algorithm is a user-friendly interface that allows users to interact w
 Queue Implementation 1
 
 ### Theory
+Queues are fundamental data structures that follow the First In, First Out (FIFO) principle, ensuring that the oldest element in the queue is the first one to be removed. They can be implemented using arrays or linked lists, with fixed-size arrays used for enqueue and dequeue operations, and linked lists used for linked list implementations. Queues have advantages such as orderly processing, breadth-first search, and task scheduling. They are crucial in algorithms like breadth-first search in graph traversal and are often used in task scheduling systems. However, they have disadvantages such as limited random access and fixed size limitations. To use a queue, follow the guidelines of FIFO, ensure efficient insertion and deletion, be mindful of memory usage, and implement proper error handling for overflow and underflow conditions. Understanding the principles of queues is essential for designing and implementing efficient algorithms and systems. Queues are versatile data structures with applications in various fields, including operating systems, network management, and simulations.
 
 ### Explanation
+The algorithm consists of three operations: enqueue (add an element to the queue), dequeue (remove an element from the queue), display (show all elements in the queue), and peek (get the front element without removing it). Enqueue adds an element to the back of the queue, ensuring that the first person in line leaves if the queue is empty. Dequeue removes an element from the queue, ensuring that the first person leaves if there's only one person in line. Display shows all elements in the queue, starting from the first person and moving towards the last. Peek allows for quick checking of the front position without removing the element. These operations ensure that elements are added at the rear and removed from the front, maintaining the first-in-first-out (FIFO) order.
 
 ### Output Screenshot
+![queueimplementation1](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/0e7a64f4-0252-4754-981a-9f5b834239cd)
+![queueimplementation2](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/ff5d327e-8f92-4bf3-948b-9228e59b43ea)
 
 ' ' '
 ## LAB15
