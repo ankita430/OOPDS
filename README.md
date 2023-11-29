@@ -401,10 +401,14 @@ The algorithm consists of three operations: enqueue (add an element to the queue
 Searching Techniques
 
 ### Theory
+Searching is a fundamental operation in computer science, involving finding specific elements or values in data. There are various techniques, each with its own characteristics and use cases. Linear Search, also known as sequential search, is simple and easy to understand, suitable for small collections or unordered lists. Binary Search, on the other hand, is applicable to sorted collections and divides the collection in half, comparing the target value to the middle element. It is efficient for large sorted collections.
 
 ### Explanation
+Linear and binary search algorithms are two methods for searching for an element in an array. Linear search is straightforward but less efficient, especially for large arrays, while binary search is highly efficient for sorted arrays. Linear search takes an array arr, its size size, and a target element target as arguments. It iterates through the array using a for loop, checking each element to see if it matches the target. If it finds the target element, it returns the index at which it was found. If not, it returns -1. In the main function, linearSearch is called to search for the target element in the array and print the result. In contrast, binary search takes a sorted array arr, its size size, and a target element target as arguments. It maintains two pointers, left and right, which define the search interval. The function repeatedly calculates the mid index and checks if the element at mid matches the target. If the element is found, it returns the index. If not, it adjusts the left and right pointers to search the appropriate half of the array. The search continues until the target is found or the interval is empty, in which case it returns -1.
 
 ### Output Screenshot
+![searchinglinear](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/26031b3d-a4ba-4706-b3cb-2bc5d86bd3f7)
+![searchingbinary](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/0dd7de19-ad50-48d3-8491-1c4c0bfa17db)
 
 ' ' '
 ## LAB16
