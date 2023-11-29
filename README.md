@@ -361,13 +361,20 @@ The algorithm of linked list allows users to add, remove, and display numbers wi
 26/10/2023 - 30/10/2023
 
 ### Title 
-
+Stack Implementation
 
 ### Theory
+A stack is a fundamental data structure that follows the Last In, First Out (LIFO) principle. It is a collection of elements with two main operations: push (add an element to the top) and pop (remove the top element). A peek operation allows users to view the top element without removing it. A stack is considered empty when it contains no elements, while a full stack may have a fixed size and is considered full when it reaches its maximum capacity. Stack overflow occurs when trying to push an element onto a full stack, while stack underflow occurs when trying to pop an element from an empty stack. In the Array implementation, the `push`, `pop`, and `peek` operations are defined, and the array keeps track of the stack elements. The program checks for stack overflow and underflow conditions. In the Linked List implementation, the `Node` class is used to create a Linked List with the `Stack` element
 
 ### Explanation
+The stack algorithm is a user-friendly interface that allows users to interact with a stack by performing operations like adding, removing, displaying, and peeking at elements. It is implemented using an array and a variable (top) that keeps track of the top element's position. The program displays a menu with options for push, pop, display, peek, and exit, prompting the user to enter their choice and perform the corresponding operation. If an invalid choice is entered, it displays an error message. The program continues to execute until the user chooses to exit, repeating the menu and operation execution based on the user's input. The stack is like a stack of books, where users can add or remove books, and the last book added is the first one removed. The computer can add or remove numbers, display or peek, and keep going until the user says "I'm done." The program is designed to be user-friendly and allows users to interact with the stack like a stack of books.
 
 ### Output Screenshot
+![stack1](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/bc90ed5e-ee55-4552-a5c1-99d4c73a8cc2)
+![stack2](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/97abe977-5417-401b-a85f-daf077934d5b)
+![stack3](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/7ba16393-7f03-4586-afc6-b917eaec1836)
+![stack4](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/77ac522e-03e5-485c-8aa6-b1585af21e23)
+![stack5](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/616b777a-ad67-498b-875a-3be9bc1af59b)
 
 ' ' '
 ## LAB14
