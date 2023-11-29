@@ -314,7 +314,22 @@ The algorithm for constructor calling in inheritance in C++ involves calling the
 Linked List
 
 ### Theory
+A linked list is a linear data structure where elements are stored in nodes, each pointing to the next node in the sequence. Unlike arrays, linked lists do not have a fixed size and memory is allocated dynamically as needed. Key concepts include nodes, heads, singly linked lists, and doubly linked lists. Basic operations include inserting, deleting, and traversal. Advantages of linked lists include dynamic size, efficient inserting and deletion, and no wasted memory. However, disadvantages include inefficient random access and extra memory for pointers. Overall, linked lists offer flexibility and flexibility in data structures.
 
+### Explanation
+The algorithm of linked list allows users to add, remove, and display numbers within a list. Each node in the list has a value and a pointer pointing to the next node in the list. The global head pointer is used to track the first node, which is set to "nowhere" initially. To add a node, create a new node and put the desired value in it. If the list is empty, create a new node and point to the current first node. If the list is not empty, delete the first node and update the head to point to the next node. If there are more than one node, find the second-to-last node and point to nullptr. The linked list is displayed by starting at the head and printing the value of each node. The main function and menu display options for the user, allowing them to choose an action and continue until the user chooses to exit. In summary, the linked list is a chain of containers, allowing users to add, remove, and display numbers within them. The algorithm is simple and efficient, allowing users to manage their list effectively.
+
+### Output Screenshot
+![linkedlist](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/aa67ab51-b7b7-49a0-993c-1b0ac0a46c5b)
+
+' ' '
+## LAB13
+19/10/2023
+
+### Title 
+
+
+### Theory
 
 ### Explanation
 
