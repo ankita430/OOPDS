@@ -272,3 +272,4 @@ Constructors and destructors are special member functions in C++ that are used f
 Build a date class, initialise month_days, int arr, and ptr to strings, accept user input, display the date in slashed form, verify the leap year, tally the number of days, display the date without slashed form, and display the weekday.
 
 ### Output Screenshot
+![constructor destructor](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/70e60b2e-4ec6-4f9c-b267-c757d07e0a73)
