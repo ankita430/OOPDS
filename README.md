@@ -87,9 +87,6 @@ This program explain how pointers can be used to access memory addresses and the
 ![pointer](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/4013818d-fc22-43d5-920a-949715921fd5)
 
 ' ' '
-
-' ' '
-
 ## LAB3(b)
 30/08/2023 - 05/09/2023
 
@@ -106,6 +103,43 @@ In this program swap1, which is used to swap the values of two integers using po
 ![swapping](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/487ee2a8-c4d6-4f5e-a7af-2a37fc31ff1b)
 
 ' ' '
+## LAB4
+06/09/2023
+
+### Title
+ER diagrams and UML
+
+### Theory
+A use case is a list of actions or event steps that define interactions between an actor and a system to achieve a goal. It helps identify, clarify, and organize system requirements. A use-case diagram provides a higher-level view of the system, simplifying and graphical representations. UML Sequence diagrams are interaction diagrams that detail how operations are carried out, capturing interaction at different levels of granularity. They can be used in the transition from use cases to more formal refinements, representing objects in the Model, View / Controller (MVC) pattern of a software framework.
+
+### Explanation
+Use cases are a powerful technique for eliciting and documenting black-box functional requirements, as they are easy to understand and provide an excellent way for communicating with customers and users. They help manage the complexity of large projects by partitioning problems into major user features and specifying applications from the users' perspective. A use case scenario, often represented by a sequence diagram, involves the collaboration of multiple objects and classes, helping identify the messages that glue the objects and classes together.
+
+To draw a use case diagram, follow these steps: identify the actors (roles of users), create use cases for every goal, structure the use cases, prioritize, review, estimate, and validate users. The components of a use case diagram include the actor, use case, relationship, and system boundary.
+
+When drawing a sequence diagram, consider the first point of the scenario, what the system needs to do in order to respond to the actor, and what the system needs to be handled before the return message response back from the system. This helps identify the candidate objects and operations of the target application for that particular scenario and can be used as a basis to derive the class diagram incrementally.
+
+The components of a sequence diagram include lifelines, actors, activations, call messages, return messages, self messages, recursive messages, create messages, destroy messages, duration messages, and notes. These elements help identify the communication between lifelines of an interaction, the invocation of operations, the request of destroying the lifecycle of the target lifeline, and the distance between two time instants for a message invocation.
+
+### Output Screenshot
+![UseCaseDiagram ATM machine](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/c90c90ba-2597-4abc-84b2-0c4a0f1a0cbd)
+![SequenceDiagram1](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/b7703f7d-566f-4ad0-a883-764ecba3ac5c)
+
+' ' '
+## LAB5
+11/09/2023
+
+### Title
+Recursion
+
+### Theory
+Recursion is a programming technique where a function calls itself to solve smaller problems, particularly those that can be broken down into similar subproblems. It has a base case that defines the simplest instance of the problem and a recursive case that defines how the problem is broken down into smaller subproblems. Recursion uses the call stack to track function calls, adding a new frame to the stack when the base case is reached. It offers advantages such as simplicity, readability, and divide and conquer. However, it can lead to performance overhead and stack overflow.
+
+### Explanation
+The algorithm involves adding the first n integers, factoring n, printing the reverse of strings and numbers, and using recursion. It involves creating function declarations, writing recursion logic, and calling the functions. The process involves adding n integers, multiplying them, and printing the reverse of strings and numbers.
+
+### Output Screenshot
+![recursion](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/469b6657-fbc8-4fc8-b08d-8b3b9ea9720a)
 
 ' ' '
 ## LAB6(a)
@@ -334,3 +368,73 @@ The algorithm of linked list allows users to add, remove, and display numbers wi
 ### Explanation
 
 ### Output Screenshot
+
+' ' '
+## LAB14
+02/11/2023
+
+### Title 
+Queue Implementation 1
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
+
+' ' '
+## LAB15
+04/11/2023
+
+### Title 
+Searching Techniques
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
+
+' ' '
+## LAB16
+04/11/2023 - 06/11/2023
+
+### Title 
+Binary Search Tree 1
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
+
+' ' ' 
+## LAB17
+16/11/2023 - 20/11/2023
+
+### Title 
+Sorting Algorithm 1
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
+
+' ' '
+## LAB18
+23/11/2023
+
+### Title 
+Graph Data Structure
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
+
+' ' '
+
+
+
