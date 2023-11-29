@@ -292,12 +292,29 @@ The program initializes a "Date" box with three pieces of information: day, mont
 
 ' ' ' 
 ## LAB11
-12/10/2023
+16/10/2023
 
 ### Title 
-
+Class Inheritance
 
 ### Theory
+In C++ inheritance is a mechanism that allows a class to inherit properties and behaviors from another class, promoting code reusability. It is based on the parent class, which is the class whose properties and behaviors are inherited by another class. The derived class, also known as the child class, inherits from the parent class. There are three types of inheritance: single, multiple, and multilevel. Access specifiers (public, protected, private) determine the visibility of base class members in the derived class. The base class constructor and destructor are called when an object of the derived class is created or destroyed, with constructors called in the order of inheritance.
+
+### Explanation
+The algorithm for constructor calling in inheritance in C++ involves calling the base class constructor first, followed by the derived class constructor. This is because the derived class inherits the properties and behavior of the base class, and before any additional initialization, the base class needs to be properly constructed. If the base class has a parameterized constructor, the derived class's constructor must call it explicitly. The derived class constructor can perform its initialization and may call the base class constructor explicitly using the base class's constructor within its member initializer list. The order of inheritance determines the order in which constructors are called, with the base class constructor being called first and the derived class constructor being called after.
+
+### Output Screenshot
+![inheritance](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/7eee9ed2-fccb-47cd-bfdb-0e9b374cca2f)
+
+' ' '
+## LAB12
+19/10/2023
+
+### Title 
+Linked List
+
+### Theory
+
 
 ### Explanation
 
