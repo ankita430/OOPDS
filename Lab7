@@ -63,7 +63,7 @@ int main()
     /*FILE *f;
     char name[20];
     int age;
-    f=fopen("C:\\Users\\Aniketh Mehta\\Desktop\\myfile.csv","a");
+    f=fopen("C:\\Users\\Ankita Gupta\\Desktop\\myfile.csv","a");
     if(f==NULL)
     {
         cout<<"file open error!";
