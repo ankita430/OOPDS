@@ -273,3 +273,32 @@ Build a date class, initialise month_days, int arr, and ptr to strings, accept u
 
 ### Output Screenshot
 ![constructor destructor](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/70e60b2e-4ec6-4f9c-b267-c757d07e0a73)
+
+' ' '
+## LAB10
+12/10/2023
+
+### Title 
+Operator Overloading
+
+### Theory
+The Date class is a simple date management algorithm that checks if a given year is a leap year by dividing it by 4 or 400. It also determines the number of days in the current month using the daysInMonth function. The algorithm also overloads the ++ operator to increment the day by one, checking if the new day exceeds the number of days in the month. If the month exceeds 12, the day is reset to 1 and the year is incremented. The main function creates an instance of the Date class with an initial date, displays the current date, and uses the overloaded ++ operator to increment the date by one day.
+
+### Explanation
+The program initializes a "Date" box with three pieces of information: day, month, and year. It checks if a year is a "leap year" by determining if it is divisible by 4 or 400. It also considers the number of days in each month, such as February having 28 or 29 days in a leap year. An overloaded ++ operator is created to add one day to the date, increasing the day value by 1. If the day becomes too big for the month, it is reset to 1 and added to the month, and if the month is too big (over 12), it is reset to 1 and added to the year. The main function displays the date, adds one day using the rule, and displays the updated date. This program resembles managing a calendar, setting a date, checking for special years, knowing the number of days each month has, and following rules to move to the next day.
+
+### Output Screenshot
+![operator overloading](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/9b88b822-efa3-4aa7-9593-4dd45823badd)
+
+' ' ' 
+## LAB11
+12/10/2023
+
+### Title 
+
+
+### Theory
+
+### Explanation
+
+### Output Screenshot
