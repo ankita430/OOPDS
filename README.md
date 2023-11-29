@@ -17,7 +17,7 @@ Compiling program is the process of converting high level programming language i
 '''
 
 ## LAB2(a)
-23/08/2023
+23/08/2023 - 29/08/2023
 
 ### Title
 Write a C program to print size of different data types.
@@ -34,7 +34,7 @@ The %lu or %zu format specifier used for sizeof operator.
 ' ' '
 
 ## LAB2(b)
-23/08/2023
+23/08/2023 - 29/08/2023
 
 ### Title
 Write a C program to read a number from user and print a table of multiplication for that number.
@@ -53,7 +53,7 @@ By using for loop, table of multiplication for any number will be execute.
 ' ' '
 
 ### LAB2(c)
-23/08/2023
+23/08/2023 - 29/08/2023
 
 ### Title
 Write a program to display different star patterns on screen.
@@ -72,7 +72,7 @@ In this programme, the user wants to make a pattern by entering the number of ro
 ' ' '
 
 ## LAB3(a)
-29/08/2023
+30/08/2023 - 05/09/2023
 
 ### Title
 Write a program to demonstrate pointers. Declare a pointer ptr to interger and equate it to address of integer i. Print value of i, value of &i, value of ptr and value of *ptr.
@@ -91,7 +91,7 @@ This program explain how pointers can be used to access memory addresses and the
 ' ' '
 
 ## LAB3(b)
-29/08/2023
+30/08/2023 - 05/09/2023
 
 ### Title
 Write a program in C to demonstrate function call by value and call by reference by writing a swap function to swap two integers.
@@ -109,8 +109,8 @@ In this program swap1, which is used to swap the values of two integers using po
 
 ' ' '
 ## LAB6(a)
-14/09/2023
-
+14/09/2023 - 18/09/2023
+ 
 ### Title
 Write a program to declare a char array of 20 characters. Read a word (using scanf or cin >> ) into the char array.
 
@@ -127,8 +127,8 @@ The given C++ program demonstrates how to declare a character array, read user i
 
 ' ' '
 ## LAB6(b)
-14/09/2023
-
+14/09/2023 - 18/09/2023
+ 
 ### Title 
 Display the array and reverse of the array on screen.
 
@@ -145,7 +145,7 @@ Three character variables are declared - str, arr, and reverse_arr. str is an ar
 
 ' ' ' 
 ## LAB6(c)
-14/09/2023
+14/09/2023 - 18/09/2023
 
 ### Title
 Check if the word is a pallindrom. (A word is a palidrom if it reads same either traight or reverse. e.g. "madam')
@@ -164,7 +164,7 @@ Given C++ program checks if a given word is a palindrome. The program checks if 
 
 ' ' '
 ## LAB6(d)
-14/09/2023
+14/09/2023 - 18/09/2023
 
 ### Title 
 Using pointer please calculate length of the word.
@@ -180,7 +180,7 @@ The given C++ program calculates and displays the length of a string, which is "
 
 ' ' '
 ## LAB6(d)
-14/09/2023
+14/09/2023 - 18/09/2023
 
 ### Title 
 Using pointer please calculate length of the word.
@@ -196,7 +196,7 @@ The given C++ program calculates and displays the length of a string, which is "
 
 ' ' '
 ## LAB6(d)
-14/09/2023
+14/09/2023 - 18/09/2023
 
 ### Title 
 Using pointer please calculate length of the word.
@@ -212,7 +212,7 @@ The given C++ program calculates and displays the length of a string, which is "
 
 ' ' '
 ## LAB7
-21/09/2023
+21/09/2023 - 25/09/2023
 
 ### Title 
 Reading and writing data from an xcel file using r(read) mode and malloc dynamic memory allocation.
@@ -228,7 +228,7 @@ Using an input CSV file, this code shows how to read it and produce an output fi
 
 ' ' '
 ## LAB8
-28/09/2023
+28/09/2023 - 05/10/2023
 
 ### Title 
 Create a class with a specific date and access its functions using the class object (today).
@@ -276,7 +276,7 @@ Build a date class, initialise month_days, int arr, and ptr to strings, accept u
 
 ' ' '
 ## LAB10
-12/10/2023
+12/10/2023 - 13/10/2023
 
 ### Title 
 Operator Overloading
@@ -308,7 +308,7 @@ The algorithm for constructor calling in inheritance in C++ involves calling the
 
 ' ' '
 ## LAB12
-19/10/2023
+19/10/2023 - 23/10/2023
 
 ### Title 
 Linked List
@@ -324,7 +324,7 @@ The algorithm of linked list allows users to add, remove, and display numbers wi
 
 ' ' '
 ## LAB13
-19/10/2023
+26/10/2023 - 30/10/2023
 
 ### Title 
 
