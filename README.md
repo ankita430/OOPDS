@@ -244,13 +244,29 @@ Build a date class, initialise month_days, int arr, and ptr to strings, accept u
 
 ' ' '
 ## LAB9
-28/09/2023
+09/10/2023
 
 ### Title 
 Create a class with a specific date and access its functions using the class object (today).
 
 ### Theory
-In C++, public and private access specifiers control the visibility of class members. Public members are accessible from outside the class, providing an interface to the outside world, while private members are hidden and only accessible by member functions of the same class. They are used to encapsulate implementation details and enforce data encapsulation. An example implementation is creating a Date class with private data members for day, month, and year.
+Constructors and destructors are special member functions in C++ that are used for initializing and cleaning up class objects. Constructors are automatically called when an object is created, initializing the object and setting its initial state. They have the same name as the class and can be overloaded, allowing multiple constructors with different parameter lists. Destructors are automatically called when an object goes out of scope or is explicitly deleted, releasing resources, such as memory, acquired during its lifetime. They have the same name as the class but are preceded by a tilde (`~`). The constructor is used for allocating resources, initializing variables, and performing other setup tasks, while the destructor is used for releasing resources, closing files, freeing memory, and performing other cleanup tasks.
+
+### Explanation
+Build a date class, initialise month_days, int arr, and ptr to strings, accept user input, display the date in slashed form, verify the leap year, tally the number of days, display the date without slashed form, and display the weekday.
+
+### Output Screenshot
+![classimplementation](https://github.com/ankita430/OOPDS-Lab-Assignment/assets/141404641/4f49ed17-6977-421d-88cc-ca501b73ce67)
+
+' ' '
+## LAB9
+09/10/2023
+
+### Title 
+Create a class with a specific date and access its functions using the class object (today).
+
+### Theory
+Constructors and destructors are special member functions in C++ that are used for initializing and cleaning up class objects. Constructors are automatically called when an object is created, initializing the object and setting its initial state. They have the same name as the class and can be overloaded, allowing multiple constructors with different parameter lists. Destructors are automatically called when an object goes out of scope or is explicitly deleted, releasing resources, such as memory, acquired during its lifetime. They have the same name as the class but are preceded by a tilde (`~`). The constructor is used for allocating resources, initializing variables, and performing other setup tasks, while the destructor is used for releasing resources, closing files, freeing memory, and performing other cleanup tasks.
 
 ### Explanation
 Build a date class, initialise month_days, int arr, and ptr to strings, accept user input, display the date in slashed form, verify the leap year, tally the number of days, display the date without slashed form, and display the weekday.
